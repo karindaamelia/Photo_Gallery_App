@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/karinda_amelia-photo_gallery_app/static/css/main.98df8b2a.css",
+    "main.js": "/karinda_amelia-photo_gallery_app/static/js/main.06953548.js",
+    "index.html": "/karinda_amelia-photo_gallery_app/index.html",
+    "main.98df8b2a.css.map": "/karinda_amelia-photo_gallery_app/static/css/main.98df8b2a.css.map",
+    "main.06953548.js.map": "/karinda_amelia-photo_gallery_app/static/js/main.06953548.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98df8b2a.css",
+    "static/js/main.06953548.js"
+  ]
+}
